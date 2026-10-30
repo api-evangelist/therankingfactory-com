@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-therankingfactory-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://therankingfactory.com/
+The Ranking Factory provides an AI‑powered SEO platform that helps businesses improve their visibility in both traditional search results and emerging AI answer engines. By analyzing gaps where AI assistants like ChatGPT, Gemini, and Perplexity do not cite a company, the service automatically generates missing content from the business’s own material, publishes it, and re‑measures impact. Features include a free site‑check REST API, read/write MCP servers for deeper integration, and tools for answer‑engine optimization (AEO) and generative engine optimization (GEO). The platform supports multiple AI models, offers tiered pricing, and integrates with popular CMSs.
+
+**Areas:** AI · SEO · Marketing · Analytics · Automation
+
+## therankingfactory-com on APIs.io
+
+Everything profiled for therankingfactory-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/therankingfactory-com/](https://apis.io/providers/therankingfactory-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [therankingfactory-com Public API](https://apis.io/apis/therankingfactory-com/therankingfactory-com-public-api/) — The Public API from therankingfactory-com — 1 operation(s) for public.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Therankingfactory Com Agentic Access](https://apis.io/agentic-access/therankingfactory-com/therankingfactory-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [SiteCheckResult](https://apis.io/schemas/therankingfactory-com/therankingfactory-com-site-check-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Therankingfactory Com Context](https://apis.io/jsonld/therankingfactory-com/therankingfactory-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [therankingfactory-com API Rules](https://apis.io/rules/therankingfactory-com/therankingfactory-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Therankingfactory Com Authentication](https://apis.io/security/therankingfactory-com/therankingfactory-com-authentication/)
+- [Therankingfactory Com Domain Security](https://apis.io/security/therankingfactory-com/therankingfactory-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Therankingfactory Com Scopes](https://apis.io/scopes/therankingfactory-com/therankingfactory-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Therankingfactory Com Plans Pricing](https://apis.io/plans/therankingfactory-com/therankingfactory-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Therankingfactory Com Rate Limits](https://apis.io/rate-limits/therankingfactory-com/therankingfactory-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://therankingfactory.com/)
+- [Documentation](https://therankingfactory.com/developers)
+- [Getting started](https://therankingfactory.com/start-trial)
+- [API reference](https://therankingfactory.com/openapi/site-check.json)
+- [Pricing](https://therankingfactory.com/pricing)
+- [Support](https://therankingfactory.com/contact)
+- [Blog](https://therankingfactory.com/blog)
+- [Terms of service](https://therankingfactory.com/terms)
+- [Privacy policy](https://therankingfactory.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 61.4** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 59.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 63.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/therankingfactory-com/](https://apis.io/providers/therankingfactory-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for therankingfactory-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/therankingfactory-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
